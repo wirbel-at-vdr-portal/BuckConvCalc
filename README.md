@@ -9,6 +9,7 @@ It's not designed to be very accurate, it's more a very fast overview of the pos
 given certain params.
 
 ![alt text](images/Image2.png)
+
 The formulas are based on an old Excel file, somewhere avail in the net and later modified to my needs.
 
 This tool is made for the Lazarus IDE, avail for Win, Linux and Mac.
