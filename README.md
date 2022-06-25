@@ -8,7 +8,7 @@ This tools helps calculating the vary basic numbers, RDSON for the switch, minim
 It's not designed to be very accurate, it's more a very fast overview of the possibilities,
 given certain params.
 
-![alt text](images/image2.png)
+![alt text](images/Image2.png)
 The formulas are based on an old Excel file, somewhere avail in the net and later modified to my needs.
 
 This tool is made for the Lazarus IDE, avail for Win, Linux and Mac.
