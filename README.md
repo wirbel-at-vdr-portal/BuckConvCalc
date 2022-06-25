@@ -14,6 +14,7 @@ The formulas are based on an old Excel file, somewhere avail in the net and late
 
 This tool is made for the Lazarus IDE, avail for Win, Linux and Mac.
 Install the Lazarus IDE plus the current fpc, if you haven't done so.
+
 ![alt text](images/Image3.png)
 
 Delphi should be able to compile as well, there's nothing special in this code.
